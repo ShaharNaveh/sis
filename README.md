@@ -174,3 +174,11 @@ Environment="CRON_ADMIN_PASSWORD=PASSWORD"
 ```
 
 </details>
+
+Start the service:
+
+```bash
+systemctl --user daemon-reload
+systemctl --user start task3.timer
+systemctl --user enable task3.timer # Optional
+```
