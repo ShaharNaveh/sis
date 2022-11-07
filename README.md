@@ -4,6 +4,8 @@
 
 Start the `Sample ECommerce` elasticube:
 
+![elasticubes_start](https://user-images.githubusercontent.com/50263213/200265052-752c40c7-7b45-42db-af34-4b1186ae6a8d.png)
+
 <details open>
 <summary>command</summary>
 
@@ -14,6 +16,8 @@ si elasticubes start -name Sample\ ECommerce
 </details>
 
 Build the `Sample ECommerce` elasticube:
+
+![elasticubes_build](https://user-images.githubusercontent.com/50263213/200265165-c8876902-be75-4ba5-90b4-03922ae7b6f5.png)
 
 <details open>
 <summary>command</summary>
@@ -158,7 +162,6 @@ WantedBy=default.target
 ```
 
 </details>
-
 
 <details open>
 <summary>override.conf</summary>
